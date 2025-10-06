@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\",
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E20479EA-830E-5D65-7FF9-4FE7E62B78EA}|Assembly-CSharp.csproj|D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E20479EA-830E-5D65-7FF9-4FE7E62B78EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapointermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Scripts\\CameraPointerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraPointerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26729ABF-D747-BE2C-EF71-D1AF1934B8DB}|CardboardSamples.csproj|D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\assets\\samples\\google cardboard xr plugin for unity\\1.30.0\\hello cardboard\\scripts\\cardboardstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26729ABF-D747-BE2C-EF71-D1AF1934B8DB}|CardboardSamples.csproj|solutionrelative:assets\\samples\\google cardboard xr plugin for unity\\1.30.0\\hello cardboard\\scripts\\cardboardstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,12 +32,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lit.shader",
-              "DocumentMoniker": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
-              "ToolTip": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@15fef0f41df6\\Shaders\\Lit.shader",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-11T16:06:26.473Z",
               "EditorCaption": ""
             },
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
-              "ToolTip": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Plugins\\Android\\AndroidManifest.xml",
               "RelativeToolTip": "Assets\\Plugins\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CameraPointerManager.cs",
-              "DocumentMoniker": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Scripts\\CameraPointerManager.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Scripts\\CameraPointerManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPointerManager.cs",
-              "ToolTip": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Scripts\\CameraPointerManager.cs",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Scripts\\CameraPointerManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CameraPointerManager.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAIwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,13 +69,17 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CardboardStartup.cs",
-              "DocumentMoniker": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
               "RelativeDocumentMoniker": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
-              "ToolTip": "D:\\mediverse_model\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
+              "ToolTip": "C:\\Users\\usuario\\Downloads\\RV_MEDIVERSE\\RV_MEDIVERSE\\Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
               "RelativeToolTip": "Assets\\Samples\\Google Cardboard XR Plugin for Unity\\1.30.0\\Hello Cardboard\\Scripts\\CardboardStartup.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T21:16:48.831Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

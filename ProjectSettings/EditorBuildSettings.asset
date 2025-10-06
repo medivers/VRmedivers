@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.30.0/Hello Cardboard/Scenes/HelloCardboard.unity
     guid: 03c48c5e809944fa4afcae9973709f26
+  - enabled: 1
+    path: Assets/Scenes/ESCENA 1.unity
+    guid: 21f603e84afb82c4f9c6976d6b8b4263
+  - enabled: 1
+    path: Assets/Scenes/AUTOLOGO.unity
+    guid: f2af7da5c6a99cf45bedf07255b5ef89
+  - enabled: 1
+    path: Assets/Scenes/ALOGENICO.unity
+    guid: 364d372bd691db9439e5e0d95de277cd
+  - enabled: 1
+    path: Assets/Scenes/DONANTE.unity
+    guid: c4e6173d136a7524094a7ea47e638a09
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 799f47aaccd9f6b429a42205fa805a4c, type: 2}
