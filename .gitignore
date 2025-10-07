@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Ignorar video grande 
+Assets/VIDEOS_RECURSOS/ESCENA1_MEDULAOSEA/*.mp4
