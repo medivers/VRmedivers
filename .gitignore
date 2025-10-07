@@ -99,4 +99,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # Ignorar video grande 
-Assets/VIDEOS_RECURSOS/ESCENA1_MEDULAOSEA/*.mp4
+# Ignorar video pesado
+Assets/VIDEOS_RECURSOS/ESCENA1_MEDULAOSEA/MEDULA OSEA ‐ Hecho con Clipchamp (1).mp4
