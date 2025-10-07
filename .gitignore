@@ -100,4 +100,4 @@ InitTestScene*.unity*
 
 # Ignorar video grande 
 # Ignorar video pesado
-Assets/VIDEOS_RECURSOS/ESCENA1_MEDULAOSEA/MEDULA OSEA ‐ Hecho con Clipchamp (1).mp4
+*.mp4
